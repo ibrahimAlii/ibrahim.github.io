@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Talented Software Engineer with over five years of software, mobile and web development, experience in a broad range of industries, including sports entertainment, restaurant management, and mobile gaming. Solid understanding of full mobile and software development life cycles, UI X, web analytics, changing web standards, and Agile methodologies. Dedicated to continuously developing, implementing, and adopting new technologies to maximize development eﬃciency and produce innovative. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I've built more than 40 Application in different categories and fields starting from Android, PHP, IOS, ARDUINO, UNITY and beyond that.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ibrahim.a.eladl@gmail.com](mailto:email@domain.com)
