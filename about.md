@@ -10,6 +10,25 @@ Talented Software Engineer with over five years of software, mobile and web deve
 
 I've built more than 40 Application in different categories and fields starting from Android, PHP, IOS, ARDUINO, UNITY and beyond that.
 
+
+### Skills:
+ - JAVA
+ - KOTLIN
+ - ANDROID
+ - PHP
+ - JAVASCRIPT
+ - SWIFT
+ - iOS
+ - ARDUINO
+ - C#
+ - ALGORITHM
+ - DATA-STRUCTURE
+ - XML
+ - JSON
+ - RX
+ - MQQT, SIGNALR, SOCKETIO
+ - EFFECTIVE-JAVA AND CLEAN-CODE
+
 ### Contact me
 
-[ibrahim.a.eladl@gmail.com](mailto:email@domain.com)
+[ibrahim.a.eladl@gmail.com](mailto:ibrahim.a.eladl@gmail.com)
