@@ -1,0 +1,26 @@
+The common way when you faced with common constuctor params is to define multi constructors or setter and getters methods (JavaBeans).
+
+While there a better way, we will descuss disadvantage of using these common way first.
+
+#### Disadvantage of Multi Constructors:
+ Constructor pattern works, but it's hard to write client code when there are many parameters,
+ and harder still to read it.
+
+#### Disadvantage of JavaBean:
+ - Because construction is split across multiple calls, **A JavaBean may be in and inconsistent state partway through its construction.
+ 
+ - Precludes the possibility of making class immutable
+ 
+#### Advantage of Builder Pattern:
+ - Easy to write and more importantly, easy to read.
+ - It's simulates named optional parameters as found in Python and Scala.
+ - Well suited to class hierarchies
+
+
+
+**Builder pattern is good choice when designing classes whose constructors or static factories would have more
+   than a handful of parameters**
+   
+   See [Video](https://www.youtube.com/watch?v=SUO5BGxwyjg&t=32s) from my [playlist](https://www.youtube.com/playlist?list=PLKpjKbwKhiw1tG7sBUrDRF9sqzViPkdtA).
+   
+   See [Examples](https://github.com/ibrahimAlii/EffectiveJavaAndKotlin/tree/master/src/Item02).
