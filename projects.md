@@ -17,7 +17,7 @@ permalink: /projects/
  - [Egpay](https://play.google.com/store/apps/details?id=com.egpay.merchant): Egpay is a company based on Application to help merchants make their payments through the App.
  **I helped to make the app more secure, enchance the performance and improve UI** (*Contributed in [Egpay](https://www.egpay.com/)*).
  
- - [DaleelElkher)[https://play.google.com/store/apps/details?id=yackeen.com.daleel]: Daleel is an Android App to help people participate with charity events by connecting them to each other and by posting the latest cases to follow.
+ - [DaleelElkher](https://play.google.com/store/apps/details?id=yackeen.com.daleel): Daleel is an Android App to help people participate with charity events by connecting them to each other and by posting the latest cases to follow.
  **The application written in Java, using MVP, using SingalR to make socket connection with orgnization and chat with them** (*Built in [Yackeen Solutions](http://www.yackeensolutions.com/)*)
  
  - [Albashaer](https://play.google.com/store/apps/details?id=s.yckeen.albashayer): Albashaer is an Android App to help students make their attendance using the App by just scanning the QRCode.
