@@ -31,6 +31,12 @@ permalink: /projects/
  
 ## Flutter Projects (Hybrid):
    - [Radio-App](https://github.com/ahlsunnah/radio-flutter) : It's an Application wrriten in dart to stream radio stations.
+   
+## Open Source :
+   - [Effective Java And Kotlin](https://github.com/ibrahimAlii/EffectiveJavaAndKotlin): It's a repo to demonstrate how to write an effective code in Java and Kotlin (Best Practice), taking insights from EffectiveJava Book.
+   
+   - [Introduction to Java Programming](https://github.com/ibrahimAlii/Introduction-To-Java-Programming): A repo contain exercies solutions for the book "Introduction to Java Programming - Comperhensive edition" for Y.Daniel.
+   
  
 ## Arduino Projects:
  - [Control Light By Eyes](https://github.com/ibrahimAlii/ControllLightByEyes): It's an Arduino Project to change lamb color by moving the eye to left and right, there is advance level of this project [here](https://psychology.stackexchange.com/questions/18593/can-i-read-what-the-person-thinking-through-electrodes-or-something-similar).
