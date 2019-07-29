@@ -30,7 +30,7 @@ permalink: /projects/
  
  
 ## Flutter Projects (Hybrid):
-   - [Radio-App](https://github.com/ahlsunnah/radio-flutter) : It's an Application wrriten in dart to stream radio stations.
+   - [Radio-App](https://github.com/ahlsunnah/radio-flutter) : It's an Application written in dart to stream radio stations.
    
 ## Open Source :
    - [Effective Java And Kotlin](https://github.com/ibrahimAlii/EffectiveJavaAndKotlin): It's a repo to demonstrate how to write an effective code in Java and Kotlin (Best Practice), taking insights from EffectiveJava Book.
