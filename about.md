@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Talented Software Engineer with over five years of software, mobile and web development, experience in a broad range of industries, including sports entertainment, restaurant management, and mobile gaming. Solid understanding of full mobile and software development life cycles, UI X, web analytics, changing web standards, and Agile methodologies. Dedicated to continuously developing, implementing, and adopting new technologies to maximize development eﬃciency and produce innovative. 
+Software Engineer with over four years of software, mobile and web development.
+I spent a lot of time reading books, exploring new fields and researching interesting topis.
+I believe that knowledge is the most important thing in our life, therefore I'm trying to develop my knowledge in different aspects. 
+Interested in technologies, poetry, horse races And new things that will make our life better.
 
 ### More Information
 
