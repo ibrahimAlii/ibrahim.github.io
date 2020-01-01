@@ -1,4 +1,4 @@
-![Jetpack Compose](https://github.com/ibrahimAlii/ibrahimalii.github.io/blob/master/_posts/1_CteVW3NQ6RR4mQ2bsL9SGQ.png)
+![Jetpack Compose](https://raw.githubusercontent.com/ibrahimAlii/ibrahimalii.github.io/master/_posts/1_CteVW3NQ6RR4mQ2bsL9SGQ.png)
 
 ## Introduction:-
 
