@@ -37,7 +37,7 @@ Well any pop-up window in your activity still not secure, like:- `Dialog`, `Spin
 There are tricky ways to secure these pop-up windows too but it's tricky as I said!
 
 
-== Jetpack Compose and it's Policy
+## Jetpack Compose and it's Policy
 
 Thankfully to Jetpack Compose. 
 
