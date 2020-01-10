@@ -14,24 +14,24 @@ He Interested in technologies, poetry, horse races And new things that will make
 
 He has built more than 40 Application in different categories and fields starting from Mobile Applications, Web Applications and play with embedded applications.
 
-
-### Skills:
- - JAVA
- - KOTLIN
- - ANDROID
- - PHP
- - JAVASCRIPT
- - HTML5
- - CSS3
- - ARDUINO
- - C# 
- - ALGORITHM
- - DATA-STRUCTURE
- - XML
- - JSON
- - Reactive Programming
- - MQQT, SIGNALR, SOCKETIO
- - EFFECTIVE-JAVA AND CLEAN-CODE
+### Languages: 
+    Java, Kotlin, PHP, JavaScript, C#, SQL, Dart
+    
+    
+### FrameWorks:
+    Android, NodeJS, Laravel, Springboot, ReactNative, Phonegap, Flutter
+    
+    
+### Scripts:
+    HTML5, CSS3, XML, JSON
+    
+    
+### Technologies and Tools:
+    MQTT, SignalR, SocketIO, Firebase, RX, DI, CI, CD, Git, Agile Methods etc..
+    
+    
+### Interest in:
+    Artificial Intelligence and Robotics.  
 
 ### Contact me
 
