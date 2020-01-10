@@ -5,9 +5,13 @@ permalink: /about/
 ---
 
 Hello there, this is Ibrahim a Software Engineer.
+
 He used different languages, frameworks and technologies. 
-He spents a lot of time reading books, exploring new fields and researching interesting topis.
+
+He spents a lot of time reading books, exploring new fields and researching interesting topics.
+
 He believes that knowledge is the most important thing in our life, therefore he is trying to develop his knowledge in different aspects. 
+
 He Interested in technologies, poetry, horse races And new things that will make our life better.
 
 ### More Information
