@@ -4,14 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Software Engineer with over four years of software, mobile and web development.
-I spent a lot of time reading books, exploring new fields and researching interesting topis.
-I believe that knowledge is the most important thing in our life, therefore I'm trying to develop my knowledge in different aspects. 
-Interested in technologies, poetry, horse races And new things that will make our life better.
+Hello there, this is Ibrahim a Software Engineer.
+He used different languages, frameworks and technologies. 
+He spents a lot of time reading books, exploring new fields and researching interesting topis.
+He believes that knowledge is the most important thing in our life, therefore he is trying to develop his knowledge in different aspects. 
+He Interested in technologies, poetry, horse races And new things that will make our life better.
 
 ### More Information
 
-I've built more than 40 Application in different categories and fields starting from Android, PHP, IOS, ARDUINO, UNITY and beyond that.
+He has built more than 40 Application in different categories and fields starting from Mobile Applications, Web Applications and play with embedded applications.
 
 
 ### Skills:
@@ -20,15 +21,15 @@ I've built more than 40 Application in different categories and fields starting 
  - ANDROID
  - PHP
  - JAVASCRIPT
- - SWIFT
- - iOS
+ - HTML5
+ - CSS3
  - ARDUINO
- - C#
+ - C# 
  - ALGORITHM
  - DATA-STRUCTURE
  - XML
  - JSON
- - RX
+ - Reactive Programming
  - MQQT, SIGNALR, SOCKETIO
  - EFFECTIVE-JAVA AND CLEAN-CODE
 
