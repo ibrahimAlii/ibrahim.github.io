@@ -4,4 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
-<iframe src="https://onedrive.live.com/embed?cid=15D783F69B3C3178&amp;resid=15D783F69B3C3178%211939&amp;authkey=ANmPzXk91bieBg8&amp;em=2&amp;wdStartOn=1" width="676px" height="988px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
+<object data="https://github.com/ibrahimAlii/ibrahimalii.github.io/blob/master/Ibrahim-resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/ibrahimAlii/ibrahimalii.github.io/blob/master/Ibrahim-resume.pdf">
+        <p>This browser does not support PDFs. Please download the Resume to view it: <a href="https://github.com/ibrahimAlii/ibrahimalii.github.io/blob/master/Ibrahim-resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
