@@ -9,3 +9,6 @@ permalink: /resume/
         <p>This browser does not support PDFs. Please download the Resume to view it: <a href="https://github.com/ibrahimAlii/ibrahimalii.github.io/blob/master/Ibrahim-resume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+
+[Resume.pdf](https://github.com/ibrahimAlii/ibrahimalii.github.io/blob/master/Ibrahim-resume.pdf)
