@@ -36,6 +36,11 @@ permalink: /experience/
  - [Albashaer](https://play.google.com/store/apps/details?id=s.yckeen.albashayer): Albashaer is an Android App to help students make their attendance using the App by just scanning the QRCode.
  **The Application written in Java, using MVC, third part library used to scan the QRCode and post it.** (*Built in [Yackeen Solutions](http://www.yackeensolutions.com/)*)
  
+- [Egpay](https://play.google.com/store/apps/details?id=com.egpay.merchant): Egpay is a company based on Application to help merchants make their payments through the App.
+ **I helped to make the app more secure, enchance the performance and improve UI** (*Contributed in [Egpay](https://www.egpay.com/)*).
+ 
+ 
+ 
  
  
  
